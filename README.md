@@ -10,6 +10,10 @@
 
 - [对浏览器事件循环的理解🤔](https://github.com/NewSimpleLife/My-Issure-Blog/issues/2)
 
+## 遇到的BUG相关
+
+- [flex超出父元素的问题😠](https://github.com/NewSimpleLife/My-Issure-Blog/issues/2)
+
 
 ## 勘误及提问
 
