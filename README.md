@@ -4,7 +4,7 @@
 
 ## React 相关
 
-- [关于Hooks的使用（数据请求）](https://github.com/NewSimpleLife/My-Issure-Blog/issues/1)
+- [关于Hooks的使用（数据请求）](https://github.com/NewSimpleLife/Noop_Issure_Blog/issues/1#issue-473197777)
 
 ## Javascript相关
 
