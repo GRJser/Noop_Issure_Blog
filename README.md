@@ -12,7 +12,7 @@
 
 ## 遇到的BUG相关
 
-- [flex超出父元素的问题😠](https://github.com/NewSimpleLife/My-Issure-Blog/issues/2)
+- [待添加🏠]()
 
 
 ## 勘误及提问
