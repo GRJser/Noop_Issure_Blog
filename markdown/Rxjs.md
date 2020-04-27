@@ -23,7 +23,7 @@ import { Observable } from 'rxjs/Observable';
 
 ### 观察者模式
 
-![image-20190823113047792](Rxjs.assets/image-20190823113047792.png)
+![image-20190823113047792](https://github.com/GRJser/Noop_Issure_Blog/blob/master/image/image-20190823113047792.png?raw=true)
 
 Observable （可以被观察的对象）
 
@@ -240,7 +240,7 @@ const Hot$ = new Observable( observer => {
 
 ### 操作符
 
-![image-20190823115212919](Rxjs.assets/image-20190823115212919.png)
+![image-20190823115212919](https://github.com/GRJser/Noop_Issure_Blog/blob/master/image/image-20190823115212919.png?raw=true)
 
 在实际运用Rx的时候，往往需要对数据进行一些处理，也就是操作。
 

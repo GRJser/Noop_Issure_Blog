@@ -2,7 +2,7 @@
 
 关于一个前端框架，对框架最基本的了解应该是它的生命周期，下图是我在查阅过程中总结的react的生命周期示意图。
 
-![image-20190823112017154](Rxjs.assets/image-react生命周期.png)
+![image-20190823112017154](https://github.com/GRJser/Noop_Issure_Blog/blob/master/image/image-react%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png?raw=true)
 
 ##### getDerivedStateFormProps(nextProps,prevState)
 
