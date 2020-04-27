@@ -278,17 +278,17 @@ source$.map(x => x ** 2).subscribe(console.log);
 
 对于rxjs数据流的形式简单来说就是单项的数据流，稍微复杂的就需要使用弹珠图来辅助。
 
-![image-20190823115330739](Rxjs.assets/image-20190823115330739.png)
+![image-20190823115330739](https://raw.githubusercontent.com/GRJser/Noop_Issure_Blog/master/image/image-20190823115330739.png)
 
 上图就是一个简单的弹珠图，意思就是每间隔一段时间后吐出一个递增的正整数。
 
 根据弹珠图的格式，| 竖杠代表的是数据流的结束。也就是complete函数的调用。x 叉号就是数据流的异常，也就是error函数的调用。所以这⚠️二个符号不可能同时存在
 
-![image-20190823115349569](Rxjs.assets/image-20190823115349569.png)
+![image-20190823115349569](https://raw.githubusercontent.com/GRJser/Noop_Issure_Blog/master/image/image-20190823115349569.png)
 
 为了表达操作符，就会用上下游的方式来表达，如下：
 
-![image-20190823115404539](Rxjs.assets/image-20190823115404539.png)
+![image-20190823115404539](https://raw.githubusercontent.com/GRJser/Noop_Issure_Blog/master/image/image-20190823115404539.png)
 
 根据功能可分为：
 
