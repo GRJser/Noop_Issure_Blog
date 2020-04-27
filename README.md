@@ -12,7 +12,7 @@
 
 ## 遇到的BUG相关
 
-- [AJAX重定向 和 跨域]([https://github.com/GRJser/Noop_Issure_Blog/blob/master/markdown/%E7%BD%91%E7%BB%9C%E9%87%8D%E5%AE%9A%E5%90%91.md](https://github.com/GRJser/Noop_Issure_Blog/blob/master/markdown/网络重定向.md))
+- [AJAX重定向和跨域](https://github.com/GRJser/Noop_Issure_Blog/blob/master/markdown/%E7%BD%91%E7%BB%9C%E9%87%8D%E5%AE%9A%E5%90%91.md)
 - [待添加🏠]()
 
 
