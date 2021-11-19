@@ -22,6 +22,8 @@
 
 如果喜欢或者有所启发，欢迎 star，对菜鸡也是一种鼓励。
 
+from: windows sub system linux 
+
 
 ## License
 
