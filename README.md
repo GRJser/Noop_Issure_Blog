@@ -5,9 +5,7 @@
 ## React 
 
 - [React生命周期](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/7)
-- 
 - [setState异步/同步](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/6)
-- 
 - [关于Hooks的使用（数据请求）](https://github.com/NewSimpleLife/Noop_Issure_Blog/issues/1#issue-473197777)
 
 
