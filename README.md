@@ -28,6 +28,8 @@
 
 - [网络模型基础](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/3)
   
+- [计算机里的数据存储方式](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/9)
+  
 
 
 ## 遇到的BUG
