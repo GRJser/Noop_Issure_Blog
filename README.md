@@ -30,6 +30,8 @@
   
 - [计算机里的数据存储方式](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/9)
   
+- [并查集](https://github.com/WeiShengv99/Noop_Issure_Blog/issues/10)
+  
 
 
 ## 遇到的BUG
